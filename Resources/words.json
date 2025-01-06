@@ -1,0 +1,18 @@
+{
+    "words": [
+        {
+            "french": "bonjour",
+            "english": "hello",
+            "definition": "A common greeting used throughout the day",
+            "options": ["hello", "goodbye", "thank you"],
+            "date": "2024-03-20"
+        },
+        {
+            "french": "au revoir",
+            "english": "goodbye",
+            "definition": "A formal way to say goodbye",
+            "options": ["goodbye", "hello", "please"],
+            "date": "2024-03-21"
+        }
+    ]
+} 
